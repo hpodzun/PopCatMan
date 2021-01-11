@@ -7,9 +7,11 @@
 #IncludeRegexTransform: 
 
 C:/Users/Hans/CLionProjects/PopCatMan/main.cpp
-iostream
--
 SDL.h
+-
+stdio.h
+-
+string
 -
 
 C:/dev_lib/SDL2/include/SDL.h
