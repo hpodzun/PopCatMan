@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PopCatMan.dir/objects.a
+C:\mingw64\mingw64\bin\ar.exe cr CMakeFiles\PopCatMan.dir/objects.a @CMakeFiles\PopCatMan.dir\objects1.rsp
+C:\mingw64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PopCatMan.dir/objects.a -Wl,--no-whole-archive  -o PopCatMan.exe -Wl,--out-implib,libPopCatMan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PopCatMan.dir\linklibs.rsp

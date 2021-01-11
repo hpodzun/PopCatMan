@@ -1,0 +1,3 @@
+C:/Users/Hans/CLionProjects/PopCatMan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hans/CLionProjects/PopCatMan/cmake-build-debug/CMakeFiles/PopCatMan.dir
+C:/Users/Hans/CLionProjects/PopCatMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
