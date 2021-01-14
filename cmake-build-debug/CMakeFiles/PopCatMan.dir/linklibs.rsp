@@ -1,1 +1,1 @@
-  -LC:/dev_lib/SDL2/lib/x64  -lSDL2main -lSDL2 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+  -LC:/dev_lib/SDL2/lib/x64  -LC:/dev_lib/SDL2_image/lib/x64  -lSDL2main -lSDL2 -lSDL2_image -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

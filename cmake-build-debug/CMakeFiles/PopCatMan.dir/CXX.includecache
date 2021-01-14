@@ -11,6 +11,8 @@ SDL.h
 -
 stdio.h
 -
+SDL_image.h
+-
 string
 -
 
@@ -655,4 +657,14 @@ C:/dev_lib/SDL2/include/close_code.h
 C:/dev_lib/SDL2/include/begin_code.h
 
 C:/dev_lib/SDL2/include/close_code.h
+
+C:/dev_lib/SDL2_image/include/SDL_image.h
+SDL.h
+C:/dev_lib/SDL2_image/include/SDL.h
+SDL_version.h
+C:/dev_lib/SDL2_image/include/SDL_version.h
+begin_code.h
+C:/dev_lib/SDL2_image/include/begin_code.h
+close_code.h
+C:/dev_lib/SDL2_image/include/close_code.h
 

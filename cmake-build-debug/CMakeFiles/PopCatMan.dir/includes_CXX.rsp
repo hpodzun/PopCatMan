@@ -1,1 +1,1 @@
--IC:/dev_lib/SDL2/include 
+-IC:/dev_lib/SDL2/include -IC:/dev_lib/SDL2_image/include 
