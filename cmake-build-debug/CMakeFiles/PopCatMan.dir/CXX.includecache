@@ -6,14 +6,20 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Hans/CLionProjects/PopCatMan/main.cpp
+C:/Users/Hans/CLionProjects/PopCatMan/Game.cpp
+Game.h
+C:/Users/Hans/CLionProjects/PopCatMan/Game.h
+TextureManager.h
+C:/Users/Hans/CLionProjects/PopCatMan/TextureManager.h
+
+C:/Users/Hans/CLionProjects/PopCatMan/Game.h
 SDL.h
 -
-stdio.h
+iostream
 -
+
+C:/Users/Hans/CLionProjects/PopCatMan/TextureManager.h
 SDL_image.h
--
-string
 -
 
 C:/dev_lib/SDL2/include/SDL.h

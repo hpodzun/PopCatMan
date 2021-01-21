@@ -142,6 +142,60 @@ PopCatMan/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/build
 .PHONY : PopCatMan/fast
 
+Game.obj: Game.cpp.obj
+
+.PHONY : Game.obj
+
+# target to build an object file
+Game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/Game.cpp.obj
+.PHONY : Game.cpp.obj
+
+Game.i: Game.cpp.i
+
+.PHONY : Game.i
+
+# target to preprocess a source file
+Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/Game.cpp.i
+.PHONY : Game.cpp.i
+
+Game.s: Game.cpp.s
+
+.PHONY : Game.s
+
+# target to generate assembly for a file
+Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/Game.cpp.s
+.PHONY : Game.cpp.s
+
+TextureManager.obj: TextureManager.cpp.obj
+
+.PHONY : TextureManager.obj
+
+# target to build an object file
+TextureManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/TextureManager.cpp.obj
+.PHONY : TextureManager.cpp.obj
+
+TextureManager.i: TextureManager.cpp.i
+
+.PHONY : TextureManager.i
+
+# target to preprocess a source file
+TextureManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/TextureManager.cpp.i
+.PHONY : TextureManager.cpp.i
+
+TextureManager.s: TextureManager.cpp.s
+
+.PHONY : TextureManager.s
+
+# target to generate assembly for a file
+TextureManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PopCatMan.dir\build.make CMakeFiles/PopCatMan.dir/TextureManager.cpp.s
+.PHONY : TextureManager.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +232,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PopCatMan
+	@echo ... Game.obj
+	@echo ... Game.i
+	@echo ... Game.s
+	@echo ... TextureManager.obj
+	@echo ... TextureManager.i
+	@echo ... TextureManager.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

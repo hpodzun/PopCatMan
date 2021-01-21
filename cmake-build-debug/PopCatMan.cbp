@@ -84,6 +84,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Hans/CLionProjects/PopCatMan/Game.cpp">
+			<Option target="PopCatMan"/>
+		</Unit>
+		<Unit filename="C:/Users/Hans/CLionProjects/PopCatMan/Game.h">
+			<Option target="PopCatMan"/>
+		</Unit>
+		<Unit filename="C:/Users/Hans/CLionProjects/PopCatMan/TextureManager.cpp">
+			<Option target="PopCatMan"/>
+		</Unit>
+		<Unit filename="C:/Users/Hans/CLionProjects/PopCatMan/TextureManager.h">
+			<Option target="PopCatMan"/>
+		</Unit>
 		<Unit filename="C:/Users/Hans/CLionProjects/PopCatMan/main.cpp">
 			<Option target="PopCatMan"/>
 		</Unit>

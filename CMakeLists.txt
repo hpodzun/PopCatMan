@@ -11,6 +11,6 @@ set(SDL2_IMG_LIB_DIR C:/dev_lib/SDL2_image/lib/x64)
 include_directories(${SDL2_INCLUDE_DIR} ${SDL2_IMG_INCLUDE_DIR})
 link_directories(${SDL2_LIB_DIR} ${SDL2_IMG_LIB_DIR})
 
-add_executable(PopCatMan main.cpp)
+add_executable(PopCatMan main.cpp Game.cpp Game.h TextureManager.h TextureManager.cpp)
 
 target_link_libraries(${PROJECT_NAME} SDL2main SDL2 SDL2_image)

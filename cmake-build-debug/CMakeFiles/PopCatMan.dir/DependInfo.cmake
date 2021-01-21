@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Hans/CLionProjects/PopCatMan/Game.cpp" "C:/Users/Hans/CLionProjects/PopCatMan/cmake-build-debug/CMakeFiles/PopCatMan.dir/Game.cpp.obj"
+  "C:/Users/Hans/CLionProjects/PopCatMan/TextureManager.cpp" "C:/Users/Hans/CLionProjects/PopCatMan/cmake-build-debug/CMakeFiles/PopCatMan.dir/TextureManager.cpp.obj"
   "C:/Users/Hans/CLionProjects/PopCatMan/main.cpp" "C:/Users/Hans/CLionProjects/PopCatMan/cmake-build-debug/CMakeFiles/PopCatMan.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

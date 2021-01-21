@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/PopCatMan.dir/Game.cpp.obj"
+  "CMakeFiles/PopCatMan.dir/TextureManager.cpp.obj"
   "CMakeFiles/PopCatMan.dir/main.cpp.obj"
   "PopCatMan.exe"
   "PopCatMan.exe.manifest"
